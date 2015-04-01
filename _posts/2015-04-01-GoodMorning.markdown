@@ -7,4 +7,4 @@ title: Good Morning
 
 Good morning.  This is a test to see how well LightPaper works with Jekyll.
 
-The title of this page is ** {{ page.title }}
+The title of this page is **{{ page.title }}**
