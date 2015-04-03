@@ -38,7 +38,7 @@ function init() {
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
     var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 15,
+        zoom: 10,
 
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(37.5333, -77.4667), // Richmond VA
@@ -169,7 +169,7 @@ function init() {
 
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     var image = 'img/map-marker.png';
-    var myLatLng = new google.maps.LatLng(40.6700, -73.9400);
+    var myLatLng = new google.maps.LatLng(37.5333, -77.4667);
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
