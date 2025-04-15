@@ -38,7 +38,7 @@ GEM
       sass (~> 3.2)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
     liquid (2.6.2)
     listen (2.8.5)
       celluloid (>= 0.15.2)
